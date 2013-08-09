@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(49.999986,-24.999999)"
+     id="g4"
+     style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"><path
+       d="M 71.06,110.306 54.539,67.65 C 53.857,65.89 52.351,64.703 50.632,64.339 L 23.955,64.275 c -1.951,0.217 -3.716,1.477 -4.449,3.443 l -15.592,41.92 c -1.035,2.78 0.381,5.874 3.162,6.909 0.617,0.229 1.25,0.338 1.873,0.338 2.182,0 4.23,-1.338 5.035,-3.5 l 9.971,-26.801 v 17.893 3.201 10.672 6.402 61.889 c 0,2.947 2.389,5.336 5.336,5.336 2.947,0 5.336,-2.389 5.336,-5.336 v -61.889 h 5.334 v 61.889 c 0,2.947 2.389,5.336 5.336,5.336 2.946,0 5.335,-2.389 5.335,-5.336 v -61.889 -6.402 -10.672 -3.201 -17.163 l 10.408,26.871 c 0.824,2.13 2.858,3.434 5.011,3.434 0.646,0 1.301,-0.117 1.939,-0.363 2.769,-1.072 4.143,-4.184 3.07,-6.95 z"
+       id="path6"
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><circle
+       cx="37.169998"
+       cy="46.196999"
+       r="13.174"
+       id="circle8"
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><polygon
+       points="37.172,101.221 43.918,94.473 37.172,64.896 30.425,94.473 "
+       id="polygon10"
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g></svg>

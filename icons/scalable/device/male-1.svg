@@ -1,0 +1,44 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(49.999687,3.671)"
+     id="g3618"><g
+       id="g4254"><path
+         d="M 66.701,105.222 49.68,89.409 C 49.094,88.821 48.375,88.454 47.621,88.284 L 43.99,91.386 H 31.037 l -3.631,-3.182 c -1.182,-0.09 -2.391,0.299 -3.297,1.205 l -15.81,15.813 c -1.646,1.646 -1.646,4.314 0,5.963 0.822,0.822 1.902,1.234 2.982,1.234 1.078,0 2.156,-0.412 2.98,-1.234 L 27.406,98.039 v 15.482 H 47.621 V 99.276 l 13.117,11.908 c 0.822,0.822 1.902,1.234 2.98,1.234 1.08,0 2.158,-0.412 2.982,-1.234 1.648,-1.648 1.648,-4.316 10e-4,-5.962 z"
+         id="path4256"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+         cx="36.998001"
+         cy="75.204002"
+         r="10.627"
+         id="circle4258"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+         d="m 27.406,122.403 v 3.852 l -3.629,29.838 c 0,2.391 1.939,4.33 4.332,4.33 2.391,0 4.33,-1.939 4.33,-4.33 l 3.631,-29.838 h 2.889 l 3.629,29.838 c 0,2.391 1.939,4.33 4.332,4.33 2.393,0 4.33,-1.939 4.33,-4.33 l -3.629,-29.838 v -3.852 -8.662 H 27.406 v 8.662 z"
+         id="path4260"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></g><line
+       stroke-miterlimit="10"
+       x1="31.823999"
+       y1="117.587"
+       x2="31.823999"
+       y2="88.143997"
+       id="line4262"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><line
+       stroke-miterlimit="10"
+       x1="43.039001"
+       y1="117.587"
+       x2="43.039001"
+       y2="88.143997"
+       id="line4264"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></g></svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(50.000125,-3.181)"
+     id="g3522"><path
+       d="M 66.701,102.051 49.678,78.979 c -0.584,-0.586 -1.303,-0.955 -2.059,-1.125 l -8.469,4.311 h -3.273 l -8.469,-4.391 c -1.182,-0.09 -2.395,0.301 -3.299,1.205 l -15.81,23.072 c -1.646,1.648 -1.646,4.314 0,5.963 0.822,0.822 1.902,1.234 2.982,1.234 1.078,0 2.156,-0.412 2.98,-1.234 L 27.407,88.817 V 110.18 H 47.618 V 88.846 l 13.119,19.168 c 0.822,0.822 1.902,1.234 2.98,1.234 1.08,0 2.158,-0.412 2.982,-1.234 1.647,-1.649 1.649,-4.315 0.002,-5.963 z"
+       id="path3524"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+       cx="36.998001"
+       cy="65.469002"
+       r="10.627"
+       id="circle3526"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 24.988,119.055 v 3.85 l -1.211,42.926 c 0,2.391 1.939,4.328 4.332,4.328 2.391,0 4.33,-1.938 4.33,-4.328 L 36.07,126.72 h 2.887 l 3.631,39.111 c 0,2.391 1.938,4.328 4.33,4.328 2.392,0 4.332,-1.938 4.332,-4.328 l -1.209,-42.926 v -3.85 l -2.422,-8.664 H 27.408 l -2.42,8.664 z"
+       id="path3528"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><polygon
+       points="19.332,136.91 26.623,110.291 48.541,110.291 55.834,136.91 "
+       id="polygon3530"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+       cx="43.723"
+       cy="116.23"
+       r="2.4200001"
+       id="circle3532"
+       style="fill:&stroke_color;" /></g></svg>

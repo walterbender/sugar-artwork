@@ -1,0 +1,51 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(49.999125,-16.302)"
+     id="g3218"><path
+       d="M 71.473,103.734 51.669,72.044 c -0.68,-0.65 -1.517,-1.06 -2.394,-1.246 l -9.854,7.212 h -3.807 l -9.853,-7.304 c -1.376,-0.099 -2.785,0.334 -3.835,1.337 l -18.397,31.69 c -1.914,1.827 -1.914,4.79 0,6.618 0.958,0.916 2.215,1.371 3.47,1.371 1.255,0 2.512,-0.455 3.468,-1.371 l 15.295,-27.387 -3.82,29.783 h 31.154 l -3.82,-29.749 15.258,27.353 c 0.958,0.916 2.215,1.371 3.47,1.371 1.255,0 2.512,-0.455 3.47,-1.371 1.912,-1.827 1.913,-4.79 -0.001,-6.617 z"
+       id="path3220"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+       cx="37.001999"
+       cy="58.551998"
+       r="11.659"
+       id="circle3222"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 48.662,53.38 c 0,-6.441 -5.221,-11.66 -11.66,-11.66 -6.439,0 -11.656,5.219 -11.656,11.66"
+       id="path3224"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 20.375,126.837 v 4.252 l -1.659,47.41 c 0,2.64 2.656,4.781 5.931,4.781 3.271,0 5.926,-2.141 5.926,-4.781 l 4.968,-43.198 h 3.951 l 4.968,43.198 c 0,2.64 2.652,4.781 5.927,4.781 3.273,0 5.926,-2.141 5.926,-4.781 l -1.654,-47.41 v -4.252 l -3.313,-9.569 H 23.685 l -3.31,9.569 z"
+       id="path3226"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="M 56.553,50.348 C 48.435,57.599 23.494,57.529 16.948,50.195"
+       id="path3228"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><polygon
+       points="15.056,146.146 24.167,112.882 51.559,112.882 60.669,146.146 "
+       id="polygon3230"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 29.094,116.688 c -0.063,-0.185 1.885,6.337 -3.628,10.877"
+       id="path3232"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 46.09,116.688 c 0,0 -2.115,6.148 3.626,10.877"
+       id="path3234"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><line
+       stroke-miterlimit="10"
+       x1="37.912998"
+       y1="112.82"
+       x2="37.912998"
+       y2="86.319"
+       id="line3236"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></g></svg>

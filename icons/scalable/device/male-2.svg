@@ -1,0 +1,29 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(50.000125,-3.403)"
+     id="g4176"><path
+       d="M 66.701,102.271 49.678,79.198 c -0.584,-0.586 -1.303,-0.955 -2.059,-1.123 l -8.469,4.309 h -3.273 l -8.469,-4.391 c -1.182,-0.088 -2.395,0.301 -3.299,1.205 l -15.81,23.073 c -1.646,1.648 -1.646,4.318 0,5.963 0.822,0.824 1.902,1.236 2.982,1.236 1.078,0 2.156,-0.412 2.98,-1.236 L 27.407,89.037 v 21.365 H 47.618 V 89.065 l 13.119,19.168 c 0.822,0.824 1.902,1.236 2.98,1.236 1.08,0 2.158,-0.412 2.982,-1.236 1.647,-1.644 1.649,-4.314 0.002,-5.962 z"
+       id="path4178"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+       cx="36.998001"
+       cy="65.246002"
+       r="10.626"
+       id="circle4180"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+       d="m 24.988,119.274 v 3.85 l -1.211,42.926 c 0,2.391 1.939,4.33 4.332,4.33 2.391,0 4.33,-1.939 4.33,-4.33 l 3.631,-39.111 h 2.887 l 3.631,39.111 c 0,2.391 1.938,4.33 4.33,4.33 2.392,0 4.332,-1.939 4.332,-4.33 l -1.209,-42.926 v -3.85 l -2.422,-8.662 H 27.408 l -2.42,8.662 z"
+       id="path4182"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></g></svg>

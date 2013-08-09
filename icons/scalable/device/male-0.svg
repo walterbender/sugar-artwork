@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#ffffff">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="175"
+   height="175"
+   viewBox="0 0 175 175"
+   xml:space="preserve">
+<g
+     transform="translate(50.000062,11.123)"
+     id="g3716"><g
+       id="g3718"><path
+         d="M 66.487,115.645 50.46,99.618 C 49.517,98.675 48.249,98.286 47.021,98.405 H 27.979 c -1.229,-0.119 -2.498,0.27 -3.439,1.213 L 8.513,115.645 c -1.67,1.668 -1.67,4.375 0,6.045 0.834,0.834 1.928,1.252 3.021,1.252 1.093,0 2.188,-0.418 3.023,-1.252 l 12.717,-12.719 -2.422,13.32 h 25.33 l -2.42,-13.281 12.68,12.68 c 0.836,0.834 1.93,1.252 3.023,1.252 1.092,0 2.188,-0.418 3.021,-1.252 1.671,-1.67 1.671,-4.377 10e-4,-6.045 z"
+         id="path3720"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+         d="m 52.989,128.68 c -1.67,-1.668 -4.375,-1.67 -6.045,0.004 -1.67,1.668 -1.67,4.373 0.002,6.043 l 3.893,3.889 -8.414,10.252 c -1.498,1.824 -1.232,4.518 0.592,6.016 0.795,0.652 1.754,0.971 2.709,0.971 1.234,0 2.461,-0.533 3.305,-1.562 l 10.873,-13.244 c 1.396,-1.701 1.275,-4.182 -0.279,-5.736 l -6.636,-6.633 z"
+         id="path3722"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+         d="m 25.845,138.616 3.893,-3.889 c 1.67,-1.67 1.67,-4.375 0.002,-6.043 -1.67,-1.674 -4.375,-1.672 -6.047,-0.004 l -6.633,6.631 c -1.555,1.555 -1.676,4.035 -0.279,5.736 l 10.873,13.244 c 0.846,1.029 2.07,1.562 3.305,1.562 0.955,0 1.914,-0.318 2.709,-0.971 1.824,-1.498 2.09,-4.191 0.592,-6.016 l -8.415,-10.25 z"
+         id="path3724"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><circle
+         cx="37.605999"
+         cy="84.473999"
+         r="9.2309999"
+         id="circle3726"
+         style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></g><path
+       d="m 35.364,75.11 h 4.318 l 3.385,-3.396 c 0.561,-0.559 0.531,-1.498 -0.068,-2.1 -0.596,-0.598 -1.535,-0.627 -2.096,-0.061 l -3.379,3.389 -3.379,-3.389 c -0.562,-0.566 -1.502,-0.537 -2.102,0.061 -0.594,0.602 -0.621,1.541 -0.061,2.1 l 3.382,3.396 z"
+       id="path3728"
+       style="fill:&stroke_color;" /></g></svg>
