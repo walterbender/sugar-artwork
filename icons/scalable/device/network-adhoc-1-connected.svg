@@ -3,10 +3,22 @@
 	<!ENTITY fill_color "#ffffff">
 ]>
 <svg enable-background="new 0 0 55 55" height="55px" id="Layer_1" version="1.1" viewBox="0 0 55 55" width="55px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-   <g display="inline" id="network-adhoc-1-connected">
-     <circle cx="27.375" cy="27.5" fill="&fill_color;" r="19.0" stroke="&stroke_color;" stroke-width="4"/>
-     <circle cx="27.375" cy="27.5" fill="&stroke_color;" r="4"/>
-     <path d="M9.471,45.697    c-9.958-9.958-9.959-26.104,0-36.062" fill="none" stroke="&stroke_color;" stroke-linecap="round" stroke-width="3.5"/>
-     <path d="M45.533,9.635    c9.959,9.958,9.958,26.104,0,36.062" fill="none" stroke="&stroke_color;" stroke-linecap="round" stroke-width="3.5"/>
-   </g>
+<path
+     d="m 45.753619,44.716729 c 0,0 1.522,0.146 2.417,-1.289 0.895,-1.435 -0.068,-2.755 -0.068,-2.755 l -18.182,-28.857 c 0,0 -0.584,-1.414 -2.271,-1.53 -1.688,-0.117 -2.401,1.353 -2.401,1.353 l -18.3519998,29.034 c 0,0 -0.962,1.32 -0.067,2.755 0.895,1.435 2.417,1.289 2.417,1.289 H 45.753619 z"
+     style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;" />
+<circle
+     cx="27.375"
+     cy="27.5"
+     r="4"
+     transform="translate(0.125,4)"
+     style="fill:&stroke_color;" />
+<path
+     d="m 36.5,13.125 c -3.465,-4.9349991 -4.476,-8.0000001 -9,-8.0000001 -4.524,0 -5.956,3.487001 -9,8.0000001"
+     style="fill:none;stroke:&stroke_color;;stroke-width:2.75;stroke-linecap:round" />
+<path
+     d="m 4.7566874,34.451756 c -2.5413341,5.468278 -4.69020293,7.87633 -2.428203,11.794229 2.2620003,3.917899 5.9978314,3.414547 11.4282036,3.794229"
+     style="fill:none;stroke:&stroke_color;;stroke-width:2.75;stroke-linecap:round" />
+<path
+     d="m 50.243313,34.451756 c 2.541334,5.468278 4.690203,7.87633 2.428203,11.794229 -2.262001,3.917899 -5.997832,3.414547 -11.428204,3.794229"
+     style="fill:none;stroke:&stroke_color;;stroke-width:2.75;stroke-linecap:round" />
 </svg>
