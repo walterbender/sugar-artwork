@@ -69,6 +69,8 @@ icon_DATA =						\
 	media-seek-forward.svg				\
 	row-insert.svg					\
 	row-remove.svg					\
+	select-all.svg					\
+	select-none.svg					\
 	system-logout.svg				\
 	system-restart.svg				\
 	system-search.svg				\
@@ -131,5 +133,6 @@ install-data-local: install-iconDATA
 	ln -sf activity-start.svg $(DESTDIR)$(icondir)/document-open.svg
 	ln -sf activity-stop.svg $(DESTDIR)$(icondir)/application-exit.svg
 	ln -sf dialog-ok.svg $(DESTDIR)$(icondir)/dialog-apply.svg
+	ln -sf dialog-ok.svg $(DESTDIR)$(icondir)/gtk-ok.svg
 	ln -sf media-playback-stop.svg $(DESTDIR)$(icondir)/process-stop.svg
 	(cd $(DESTDIR)$(icondir)/.. && $(ICONMAP) -c $(category))
